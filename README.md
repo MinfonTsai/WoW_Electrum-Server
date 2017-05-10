@@ -1,7 +1,8 @@
-Electrum-server for the Electrum client
+The Electrum-server for WOWChain of blockchain client
 =========================================
 
-  * Author: Thomas Voegtlin (ThomasV on the bitcointalk forum)
+  * Author: Minfon Tsai
+  * fork from: ThomasV on the bitcointalk forum
   * Language: Python
 
 
